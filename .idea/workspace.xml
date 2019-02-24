@@ -66,6 +66,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="pandrosov &lt;pandrosov@list.ru&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -182,12 +187,20 @@
       <workItem from="1550254529769" duration="18912000" />
       <workItem from="1550352052208" duration="501000" />
       <workItem from="1550843948554" duration="2334000" />
-      <workItem from="1551030410983" duration="829000" />
+      <workItem from="1551030410983" duration="1073000" />
     </task>
+    <task id="LOCAL-00001" summary="scap">
+      <created>1551031344842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551031344842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98760000" />
+    <option name="totallyTimeSpent" value="99004000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -214,8 +227,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32894737" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3903387" side_tool="true" weight="0.32713348" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.7701277" visible="true" weight="0.33442983" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.33703497" side_tool="true" visible="true" weight="0.33442983" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.662965" visible="true" weight="0.33442983" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -250,6 +263,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="scap" />
+    <option name="LAST_COMMIT_MESSAGE" value="scap" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.ruby-version">
