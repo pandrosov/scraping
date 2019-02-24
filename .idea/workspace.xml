@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe47856d-e590-4649-aa72-93ad4f5ea803" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/webScraping@sraping.rcov" NAME="sraping Coverage Results" MODIFIED="1550845981235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="webScraping" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sraping.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="129" column="54" selection-start-line="129" selection-start-column="54" selection-end-line="129" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/rubygems/core_ext/kernel_require.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.byebug_history">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data-</find>
+      <find>-1</find>
+      <find>1</find>
+      <find>content</find>
+      <find>,</find>
+      <find>data-id</find>
+      <find>li.</find>
+      <find>gsub</find>
+      <find>bye</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/sraping.rb" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.ruby-gemset" />
+        <option value="$PROJECT_DIR$/citilink.json" />
+        <option value="$PROJECT_DIR$/.byebug_history" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/example.rb" />
+        <option value="$PROJECT_DIR$/sraping.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="73" />
+    <option name="y" value="25" />
+    <option name="width" value="1847" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webScraping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webScraping" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="sraping" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="webScraping" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/sraping.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.sraping" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe47856d-e590-4649-aa72-93ad4f5ea803" name="Default Changelist" comment="" />
+      <created>1549576396914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549576396914</updated>
+      <workItem from="1549576400689" duration="345000" />
+      <workItem from="1549577995918" duration="5078000" />
+      <workItem from="1549585970401" duration="3288000" />
+      <workItem from="1549700983729" duration="17082000" />
+      <workItem from="1549911961922" duration="18293000" />
+      <workItem from="1550008891136" duration="3003000" />
+      <workItem from="1550001378492" duration="6571000" />
+      <workItem from="1550145712540" duration="9448000" />
+      <workItem from="1550220419888" duration="8196000" />
+      <workItem from="1550232819275" duration="4880000" />
+      <workItem from="1550254529769" duration="18912000" />
+      <workItem from="1550352052208" duration="501000" />
+      <workItem from="1550843948554" duration="2334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="97931000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1353" y="25" width="1847" height="1055" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19489172" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49886104" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6096613" weight="0.32713348" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4908384" weight="0.3971079" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4991671" weight="0.32932165" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3903387" side_tool="true" weight="0.32713348" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.7701277" visible="true" weight="0.33369803" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.ruby-version">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ruby-gemset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/uri/common.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/uri/rfc3986_parser.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/curb-0.9.8/lib/curl.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/nokogiri-1.10.1/lib/nokogiri/xml/searchable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3165">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/ruby-debug-ide-0.7.0.beta7/lib/ruby-debug-ide.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/ruby-debug-ide-0.7.0.beta7/bin/rdebug-ide">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="170" column="4" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.0/gems/nokogiri-1.10.1/lib/nokogiri/html.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@webScraping/gems/nokogiri-1.10.1/lib/nokogiri/html.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/citilink.json" />
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@webScraping/gems/nokogiri-1.10.1/lib/nokogiri/xml/builder.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="228" column="20" selection-start-line="228" selection-start-column="20" selection-end-line="228" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9723" selection-start-column="9720" selection-end-column="9723" />
+          <folding>
+            <element signature="e#15933#15973#0" expanded="true" />
+            <element signature="e#45346#45362#0" expanded="true" />
+            <element signature="e#119913#119929#0" expanded="true" />
+            <element signature="e#123413#123432#0" expanded="true" />
+            <element signature="e#126579#126593#0" expanded="true" />
+            <element signature="e#132903#132919#0" expanded="true" />
+            <element signature="e#133041#133057#0" expanded="true" />
+            <element signature="e#134020#134026#0" expanded="true" />
+            <element signature="e#134026#134032#0" expanded="true" />
+            <element signature="e#134581#134587#0" expanded="true" />
+            <element signature="e#134587#134593#0" expanded="true" />
+            <element signature="e#138365#138371#0" expanded="true" />
+            <element signature="e#273048#273064#0" expanded="true" />
+            <element signature="e#274675#274683#0" expanded="true" />
+            <element signature="e#277219#277235#0" expanded="true" />
+            <element signature="e#278646#278662#0" expanded="true" />
+            <element signature="e#287061#287077#0" expanded="true" />
+            <element signature="e#290610#290626#0" expanded="true" />
+            <element signature="e#290703#290711#0" expanded="true" />
+            <element signature="e#290826#290834#0" expanded="true" />
+            <element signature="e#291594#291602#0" expanded="true" />
+            <element signature="e#294059#294067#0" expanded="true" />
+            <element signature="e#295827#295843#0" expanded="true" />
+            <element signature="e#298207#298223#0" expanded="true" />
+            <element signature="e#304801#304809#0" expanded="true" />
+            <element signature="e#309117#309133#0" expanded="true" />
+            <element signature="e#311515#311531#0" expanded="true" />
+            <element signature="e#311622#311630#0" expanded="true" />
+            <element signature="e#311759#311767#0" expanded="true" />
+            <element signature="e#314401#314417#0" expanded="true" />
+            <element signature="e#315395#315403#0" expanded="true" />
+            <element signature="e#317438#317454#0" expanded="true" />
+            <element signature="e#318255#318261#0" expanded="true" />
+            <element signature="e#318391#318397#0" expanded="true" />
+            <element signature="e#318403#318409#0" expanded="true" />
+            <element signature="e#322035#322042#0" expanded="true" />
+            <element signature="e#322042#322048#0" expanded="true" />
+            <element signature="e#322048#322054#0" expanded="true" />
+            <element signature="e#322819#322826#0" expanded="true" />
+            <element signature="e#322826#322832#0" expanded="true" />
+            <element signature="e#322832#322838#0" expanded="true" />
+            <element signature="e#323287#323294#0" expanded="true" />
+            <element signature="e#323294#323300#0" expanded="true" />
+            <element signature="e#323300#323306#0" expanded="true" />
+            <element signature="e#324224#324231#0" expanded="true" />
+            <element signature="e#324231#324237#0" expanded="true" />
+            <element signature="e#324237#324243#0" expanded="true" />
+            <element signature="e#324982#324989#0" expanded="true" />
+            <element signature="e#324989#324995#0" expanded="true" />
+            <element signature="e#324995#325001#0" expanded="true" />
+            <element signature="e#325511#325518#0" expanded="true" />
+            <element signature="e#325518#325524#0" expanded="true" />
+            <element signature="e#325524#325530#0" expanded="true" />
+            <element signature="e#326072#326079#0" expanded="true" />
+            <element signature="e#326079#326085#0" expanded="true" />
+            <element signature="e#326085#326091#0" expanded="true" />
+            <element signature="e#326291#326298#0" expanded="true" />
+            <element signature="e#326298#326304#0" expanded="true" />
+            <element signature="e#326304#326310#0" expanded="true" />
+            <element signature="e#327648#327670#0" expanded="true" />
+            <element signature="e#328148#328156#0" expanded="true" />
+            <element signature="e#340052#340057#0" expanded="true" />
+            <element signature="e#340072#340077#0" expanded="true" />
+            <element signature="e#341461#341466#0" expanded="true" />
+            <element signature="e#341481#341486#0" expanded="true" />
+            <element signature="e#341495#341500#0" expanded="true" />
+            <element signature="e#347469#347474#0" expanded="true" />
+            <element signature="e#347489#347494#0" expanded="true" />
+            <element signature="e#347503#347508#0" expanded="true" />
+            <element signature="e#353157#353162#0" expanded="true" />
+            <element signature="e#353177#353182#0" expanded="true" />
+            <element signature="e#353191#353196#0" expanded="true" />
+            <element signature="e#358525#358530#0" expanded="true" />
+            <element signature="e#358545#358550#0" expanded="true" />
+            <element signature="e#359976#359981#0" expanded="true" />
+            <element signature="e#359996#360001#0" expanded="true" />
+            <element signature="e#360010#360015#0" expanded="true" />
+            <element signature="e#365273#365278#0" expanded="true" />
+            <element signature="e#365293#365298#0" expanded="true" />
+            <element signature="e#366693#366698#0" expanded="true" />
+            <element signature="e#366713#366718#0" expanded="true" />
+            <element signature="e#366727#366732#0" expanded="true" />
+            <element signature="e#370317#370331#0" expanded="true" />
+            <element signature="e#370355#370377#0" expanded="true" />
+            <element signature="e#370697#370717#0" expanded="true" />
+            <element signature="e#372498#372503#0" expanded="true" />
+            <element signature="e#372518#372523#0" expanded="true" />
+            <element signature="e#373749#373754#0" expanded="true" />
+            <element signature="e#373769#373774#0" expanded="true" />
+            <element signature="e#373783#373788#0" expanded="true" />
+            <element signature="e#377393#377407#0" expanded="true" />
+            <element signature="e#377431#377453#0" expanded="true" />
+            <element signature="e#377771#377791#0" expanded="true" />
+            <element signature="e#379575#379580#0" expanded="true" />
+            <element signature="e#379595#379600#0" expanded="true" />
+            <element signature="e#384240#384254#0" expanded="true" />
+            <element signature="e#384278#384300#0" expanded="true" />
+            <element signature="e#384617#384637#0" expanded="true" />
+            <element signature="e#386416#386421#0" expanded="true" />
+            <element signature="e#386436#386441#0" expanded="true" />
+            <element signature="e#387674#387679#0" expanded="true" />
+            <element signature="e#387694#387699#0" expanded="true" />
+            <element signature="e#387708#387713#0" expanded="true" />
+            <element signature="e#391274#391288#0" expanded="true" />
+            <element signature="e#391312#391334#0" expanded="true" />
+            <element signature="e#391651#391671#0" expanded="true" />
+            <element signature="e#393449#393454#0" expanded="true" />
+            <element signature="e#393469#393474#0" expanded="true" />
+            <element signature="e#394697#394702#0" expanded="true" />
+            <element signature="e#394717#394722#0" expanded="true" />
+            <element signature="e#394731#394736#0" expanded="true" />
+            <element signature="e#398321#398335#0" expanded="true" />
+            <element signature="e#398359#398381#0" expanded="true" />
+            <element signature="e#398701#398721#0" expanded="true" />
+            <element signature="e#400502#400507#0" expanded="true" />
+            <element signature="e#400522#400527#0" expanded="true" />
+            <element signature="e#401754#401759#0" expanded="true" />
+            <element signature="e#401774#401779#0" expanded="true" />
+            <element signature="e#401788#401793#0" expanded="true" />
+            <element signature="e#405398#405412#0" expanded="true" />
+            <element signature="e#405436#405458#0" expanded="true" />
+            <element signature="e#405776#405796#0" expanded="true" />
+            <element signature="e#407576#407581#0" expanded="true" />
+            <element signature="e#407596#407601#0" expanded="true" />
+            <element signature="e#408844#408849#0" expanded="true" />
+            <element signature="e#408864#408869#0" expanded="true" />
+            <element signature="e#408878#408883#0" expanded="true" />
+            <element signature="e#412483#412497#0" expanded="true" />
+            <element signature="e#412521#412543#0" expanded="true" />
+            <element signature="e#412856#412876#0" expanded="true" />
+            <element signature="e#414655#414660#0" expanded="true" />
+            <element signature="e#414675#414680#0" expanded="true" />
+            <element signature="e#419380#419394#0" expanded="true" />
+            <element signature="e#419418#419440#0" expanded="true" />
+            <element signature="e#419766#419786#0" expanded="true" />
+            <element signature="e#421576#421581#0" expanded="true" />
+            <element signature="e#421596#421601#0" expanded="true" />
+            <element signature="e#422840#422845#0" expanded="true" />
+            <element signature="e#422860#422865#0" expanded="true" />
+            <element signature="e#422873#422878#0" expanded="true" />
+            <element signature="e#426490#426504#0" expanded="true" />
+            <element signature="e#426528#426550#0" expanded="true" />
+            <element signature="e#426875#426895#0" expanded="true" />
+            <element signature="e#428695#428700#0" expanded="true" />
+            <element signature="e#428715#428720#0" expanded="true" />
+            <element signature="e#429924#429929#0" expanded="true" />
+            <element signature="e#429944#429949#0" expanded="true" />
+            <element signature="e#429957#429962#0" expanded="true" />
+            <element signature="e#433596#433610#0" expanded="true" />
+            <element signature="e#433634#433656#0" expanded="true" />
+            <element signature="e#433983#434003#0" expanded="true" />
+            <element signature="e#435807#435812#0" expanded="true" />
+            <element signature="e#435827#435832#0" expanded="true" />
+            <element signature="e#437077#437082#0" expanded="true" />
+            <element signature="e#437097#437102#0" expanded="true" />
+            <element signature="e#437110#437115#0" expanded="true" />
+            <element signature="e#442543#442548#0" expanded="true" />
+            <element signature="e#442563#442568#0" expanded="true" />
+            <element signature="e#443815#443820#0" expanded="true" />
+            <element signature="e#443835#443840#0" expanded="true" />
+            <element signature="e#443848#443853#0" expanded="true" />
+            <element signature="e#449011#449016#0" expanded="true" />
+            <element signature="e#449031#449036#0" expanded="true" />
+            <element signature="e#450271#450276#0" expanded="true" />
+            <element signature="e#450291#450296#0" expanded="true" />
+            <element signature="e#450305#450310#0" expanded="true" />
+            <element signature="e#453939#453953#0" expanded="true" />
+            <element signature="e#453977#453999#0" expanded="true" />
+            <element signature="e#454328#454348#0" expanded="true" />
+            <element signature="e#456152#456157#0" expanded="true" />
+            <element signature="e#456172#456177#0" expanded="true" />
+            <element signature="e#457429#457434#0" expanded="true" />
+            <element signature="e#457449#457454#0" expanded="true" />
+            <element signature="e#457462#457467#0" expanded="true" />
+            <element signature="e#462805#462810#0" expanded="true" />
+            <element signature="e#462825#462830#0" expanded="true" />
+            <element signature="e#464034#464039#0" expanded="true" />
+            <element signature="e#464054#464059#0" expanded="true" />
+            <element signature="e#464067#464072#0" expanded="true" />
+            <element signature="e#467700#467714#0" expanded="true" />
+            <element signature="e#467738#467760#0" expanded="true" />
+            <element signature="e#468083#468103#0" expanded="true" />
+            <element signature="e#469889#469894#0" expanded="true" />
+            <element signature="e#469909#469914#0" expanded="true" />
+            <element signature="e#471162#471167#0" expanded="true" />
+            <element signature="e#471182#471187#0" expanded="true" />
+            <element signature="e#471195#471200#0" expanded="true" />
+            <element signature="e#476420#476425#0" expanded="true" />
+            <element signature="e#476440#476445#0" expanded="true" />
+            <element signature="e#477664#477669#0" expanded="true" />
+            <element signature="e#477684#477689#0" expanded="true" />
+            <element signature="e#477698#477703#0" expanded="true" />
+            <element signature="e#483010#483015#0" expanded="true" />
+            <element signature="e#483030#483035#0" expanded="true" />
+            <element signature="e#484271#484276#0" expanded="true" />
+            <element signature="e#484291#484296#0" expanded="true" />
+            <element signature="e#484305#484310#0" expanded="true" />
+            <element signature="e#489633#489638#0" expanded="true" />
+            <element signature="e#489653#489658#0" expanded="true" />
+            <element signature="e#490879#490884#0" expanded="true" />
+            <element signature="e#490899#490904#0" expanded="true" />
+            <element signature="e#490913#490918#0" expanded="true" />
+            <element signature="e#492450#492457#0" expanded="true" />
+            <element signature="e#492457#492463#0" expanded="true" />
+            <element signature="e#493072#493078#0" expanded="true" />
+            <element signature="e#493078#493085#0" expanded="true" />
+            <element signature="e#493874#493882#0" expanded="true" />
+            <element signature="e#498068#498091#0" expanded="true" />
+            <element signature="e#498238#498244#0" expanded="true" />
+            <element signature="e#498645#498671#0" expanded="true" />
+            <element signature="e#499200#499206#0" expanded="true" />
+            <element signature="e#500864#500870#0" expanded="true" />
+            <element signature="e#501402#501410#0" expanded="true" />
+            <element signature="e#501678#501686#0" expanded="true" />
+            <element signature="e#502635#502641#0" expanded="true" />
+            <element signature="e#504022#504030#0" expanded="true" />
+            <element signature="e#504218#504266#0" expanded="true" />
+            <element signature="e#504497#504503#0" expanded="true" />
+            <element signature="e#504503#504509#0" expanded="true" />
+            <element signature="e#504509#504515#0" expanded="true" />
+            <element signature="e#504515#504521#0" expanded="true" />
+            <element signature="e#504644#504650#0" expanded="true" />
+            <element signature="e#504650#504656#0" expanded="true" />
+            <element signature="e#504656#504662#0" expanded="true" />
+            <element signature="e#504662#504668#0" expanded="true" />
+            <element signature="e#504686#504718#0" expanded="true" />
+            <element signature="e#506129#506135#1" expanded="true" />
+            <element signature="e#519677#519693#0" expanded="true" />
+            <element signature="e#520929#520948#0" expanded="true" />
+            <element signature="e#524459#524465#1" expanded="true" />
+            <element signature="e#525009#525015#1" expanded="true" />
+            <element signature="e#531405#531411#1" expanded="true" />
+            <element signature="e#542169#542175#1" expanded="true" />
+            <element signature="e#545881#545887#1" expanded="true" />
+            <element signature="e#549026#549032#1" expanded="true" />
+            <element signature="e#552946#552952#1" expanded="true" />
+            <element signature="e#554883#554889#1" expanded="true" />
+            <element signature="e#556587#556593#1" expanded="true" />
+            <element signature="e#558292#558298#1" expanded="true" />
+            <element signature="e#561347#561353#1" expanded="true" />
+            <element signature="e#563692#563698#1" expanded="true" />
+            <element signature="e#565709#565715#1" expanded="true" />
+            <element signature="e#567413#567419#1" expanded="true" />
+            <element signature="e#569642#569648#1" expanded="true" />
+            <element signature="e#572552#572558#1" expanded="true" />
+            <element signature="e#574823#574829#1" expanded="true" />
+            <element signature="e#576733#576739#1" expanded="true" />
+            <element signature="e#578432#578438#1" expanded="true" />
+            <element signature="e#579874#579880#1" expanded="true" />
+            <element signature="e#580421#580427#1" expanded="true" />
+            <element signature="e#586819#586825#1" expanded="true" />
+            <element signature="e#589031#589037#1" expanded="true" />
+            <element signature="e#590283#590289#1" expanded="true" />
+            <element signature="e#591931#591937#1" expanded="true" />
+            <element signature="e#596296#596302#1" expanded="true" />
+            <element signature="e#598597#598603#1" expanded="true" />
+            <element signature="e#600288#600294#1" expanded="true" />
+            <element signature="e#602646#602652#1" expanded="true" />
+            <element signature="e#604919#604925#1" expanded="true" />
+            <element signature="e#607112#607118#1" expanded="true" />
+            <element signature="e#608714#608720#1" expanded="true" />
+            <element signature="e#610075#610081#1" expanded="true" />
+            <element signature="e#611283#611289#1" expanded="true" />
+            <element signature="e#611845#611851#1" expanded="true" />
+            <element signature="e#616165#616171#1" expanded="true" />
+            <element signature="e#619206#619212#1" expanded="true" />
+            <element signature="e#623524#623530#1" expanded="true" />
+            <element signature="e#627927#627933#1" expanded="true" />
+            <element signature="e#630567#630573#1" expanded="true" />
+            <element signature="e#634404#634410#0" expanded="true" />
+            <element signature="e#635981#635987#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.rb" />
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/open-uri.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sraping.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="129" column="54" selection-start-line="129" selection-start-column="54" selection-end-line="129" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0/rubygems/core_ext/kernel_require.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.byebug_history">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
