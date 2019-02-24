@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sraping.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="129" column="54" selection-start-line="129" selection-start-column="54" selection-end-line="129" selection-end-column="54" />
+            <state relative-caret-position="379">
+              <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
             </state>
           </provider>
         </entry>
@@ -65,6 +65,9 @@
       <find>bye</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/sraping.rb" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -93,11 +96,13 @@
     <option name="width" value="1847" />
     <option name="height" value="1055" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,7 +114,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,11 +182,12 @@
       <workItem from="1550254529769" duration="18912000" />
       <workItem from="1550352052208" duration="501000" />
       <workItem from="1550843948554" duration="2334000" />
+      <workItem from="1551030410983" duration="232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97931000" />
+    <option name="totallyTimeSpent" value="98207000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -194,9 +199,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1353" y="25" width="1847" height="1055" extended-state="6" />
+    <frame x="73" y="25" width="1847" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19489172" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19711271" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -210,7 +215,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3903387" side_tool="true" weight="0.32713348" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.7701277" visible="true" weight="0.33369803" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.7701277" visible="true" weight="0.33442983" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -585,8 +590,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sraping.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="129" column="54" selection-start-line="129" selection-start-column="54" selection-end-line="129" selection-end-column="54" />
+        <state relative-caret-position="379">
+          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
         </state>
       </provider>
     </entry>
