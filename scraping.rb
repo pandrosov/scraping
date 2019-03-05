@@ -99,9 +99,7 @@ def main2
   puts "Введите имя файла в формате csv"
   file_name = gets.chomp
 
-  b = Products.new("Hi", 123,"Dogs food")
-  b.showInfo
-
+  
   name_page_file = url.gsub(@site_domain, '').chomp("/")
   dir_result = "#{File.dirname(__FILE__)}/result/"
   FileUtils.mkdir(dir_result) unless File.exists?(dir_result)
