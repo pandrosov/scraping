@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe47856d-e590-4649-aa72-93ad4f5ea803" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scraping.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.byebug_history" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/huesos-para-perro-page_1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/products/hueso-jamon-amiguitos-para-perro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sraping.rb" beforeDir="false" />
-    </list>
+    <list default="true" id="fe47856d-e590-4649-aa72-93ad4f5ea803" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +242,7 @@
       <workItem from="1551030410983" duration="12449000" />
       <workItem from="1551196356311" duration="5453000" />
       <workItem from="1551202837662" duration="3665000" />
-      <workItem from="1551287831800" duration="6372000" />
+      <workItem from="1551287831800" duration="7106000" />
     </task>
     <task id="LOCAL-00001" summary="scap">
       <created>1551031344842</created>
@@ -264,7 +255,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125870000" />
+    <option name="totallyTimeSpent" value="126604000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -276,10 +267,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="25" width="1847" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="73" y="25" width="1847" height="1055" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2665186" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2665186" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -293,7 +283,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49972236" weight="0.32894737" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3398112" side_tool="true" visible="true" weight="0.33442983" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.6601888" visible="true" weight="0.33442983" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.6601888" visible="true" weight="0.33442983" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
