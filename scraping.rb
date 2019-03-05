@@ -12,11 +12,11 @@ def get_page_data(html_local)
   FileUtils.mkdir(dir_product ) unless File.exists?(dir_product )
   parsing_end = 0
   html = Nokogiri::HTML.parse(open html_local)
-  block = html.xpath(@mark_block_product)
+  block = html.xpath(@block_product)
 
 
   for x in 0...block.size
-    prod_url = html.xpath(@mark_product_url.gsub('prod_block', (x+1).to_s)).map {|link| link['href'] }[0]
+    prod_url = html.xpath(@product_url.gsub('prod_block', (x+1).to_s)).map {|link| link['href'] }[0]
     unless @prod_url.include?(prod_url)
       @prod_url.push prod_url
       html_product = @prod_url[@counter].gsub(@site_domain, '')
@@ -24,7 +24,6 @@ def get_page_data(html_local)
       html_local_products = "#{dir_product}/#{html_product}"
       download_url(prod_url, html_local_products)
       get_products_data(html_local_products)
-
     else
       parsing_end = 1
     end
@@ -104,11 +103,11 @@ def main2
   @site_domain = "https://www.petsonic.com/"
 
   puts "Передайте ссылку на категорию"
-  url = "https://www.petsonic.com/snacks-higiene-dental-para-perros/"
+  url = get.chomp
 
 
   puts "Введите имя файла в формате csv"
-  file_name = "file1.csv"
+  file_name = get.chomp
 
   name_page_file = url.gsub(@site_domain, '').chomp("/")
   dir_result = "#{File.dirname(__FILE__)}/result/"
@@ -123,9 +122,9 @@ def main2
   @weight = '//*[@class="radio_label"]'
   @image  = '//*[@id="bigpic"]'
   #block with all products
-  @mark_block_product = '//*[@id="product_list"]/li'
+  @block_product = '//*[@id="product_list"]/li'
   #url of products
-  @mark_product_url = "#{@mark_block_product}[prod_block]/div/div/div[1]/a"
+  @product_url = "#{@block_product}[prod_block]/div/div/div[1]/a"
   exist_products = 1
   page_number = 1
   while exist_products == 1
