@@ -49,7 +49,7 @@ def get_products_data(product_page)
   if(blocks.size == 0)
     cost = html.xpath('//*[@id="our_price_display"]').text
     product_data = Products.new("#{title_product}", cost, image_product )
-    byebug
+
    @products_data << product_data
   end
 
@@ -143,9 +143,7 @@ def main2
   dir_result = "#{File.dirname(__FILE__)}/result/"
 
   CSV.open("#{dir_result}#{file_name}", "wb", write_headers: true, headers: ["name", "cost", "image product"]) do |row|
-    byebug
     @products_data.each_with_index do |item|
-      byebug
       row << [item.name, item.cost, item.image_source]
     end
   end
