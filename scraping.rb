@@ -4,7 +4,7 @@ require 'open-uri'
 require 'curl'
 require 'byebug'
 require 'csv'
-
+require_relative 'productClass'
 
 def get_page_data(html_local)
 
@@ -13,7 +13,6 @@ def get_page_data(html_local)
   parsing_end = 0
   html = Nokogiri::HTML.parse(open html_local)
   block = html.xpath(@block_product)
-
 
   for x in 0...block.size
     prod_url = html.xpath(@product_url.gsub('prod_block', (x+1).to_s)).map {|link| link['href'] }[0]
@@ -49,12 +48,9 @@ def get_products_data(product_page)
 
   if(blocks.size == 0)
     cost = html.xpath('//*[@id="our_price_display"]').text
-    product_data = {
-        name: "#{title_product}",
-        cost: cost,
-        image_source: image_product
-    }
-    @products_data << product_data
+    product_data = Products.new("#{title_product}", cost, image_product )
+    byebug
+   @products_data << product_data
   end
 
   for index in 0..blocks.size-1
@@ -62,16 +58,10 @@ def get_products_data(product_page)
     cost = block.xpath(@cost)[index].text
     weight = block.xpath(@weight)[index].text
     unless(title_product == "")
-      product_data = {
-          name: "#{title_product} - #{weight}",
-          cost: cost,
-          image_source: image_product
-      }
+      product_data = Products.new("#{title_product} - #{weight.strip}", cost, image_product )
+
       @products_data << product_data
-      puts "Собираем информацию с сайта"
-      puts product_data[:name]
-      puts product_data[:cost]
-      puts product_data[:image_source]
+      product_data.showInfo
 
 
     end
@@ -103,11 +93,14 @@ def main2
   @site_domain = "https://www.petsonic.com/"
 
   puts "Передайте ссылку на категорию"
-  url = get.chomp
+  url = gets.chomp
 
 
   puts "Введите имя файла в формате csv"
-  file_name = get.chomp
+  file_name = gets.chomp
+
+  b = Products.new("Hi", 123,"Dogs food")
+  b.showInfo
 
   name_page_file = url.gsub(@site_domain, '').chomp("/")
   dir_result = "#{File.dirname(__FILE__)}/result/"
@@ -149,9 +142,11 @@ def main2
 
   dir_result = "#{File.dirname(__FILE__)}/result/"
 
-  CSV.open("#{dir_result}#{file_name}", "wb", write_headers: true, headers: @products_data.first.keys) do |row|
+  CSV.open("#{dir_result}#{file_name}", "wb", write_headers: true, headers: ["name", "cost", "image product"]) do |row|
+    byebug
     @products_data.each_with_index do |item|
-      row << item.values
+      byebug
+      row << [item.name, item.cost, item.image_source]
     end
   end
   puts "Данные записаны в файл #{file_name}"

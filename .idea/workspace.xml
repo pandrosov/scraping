@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe47856d-e590-4649-aa72-93ad4f5ea803" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.byebug_history" beforeDir="false" afterPath="$PROJECT_DIR$/.byebug_history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scraping.rb" beforeDir="false" afterPath="$PROJECT_DIR$/scraping.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.rb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,23 +18,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scraping.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
+            <state relative-caret-position="90">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/productClass.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/result/snacks-higiene-dental-para-perros.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/result/asdasd.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -83,11 +94,13 @@
         <option value="$PROJECT_DIR$/result/products/hobbit-alf-hueso-piel-fluor-para-perros.html" />
         <option value="$PROJECT_DIR$/result/products/hobbit-alf-canailla-jamon-para-perros.html" />
         <option value="$PROJECT_DIR$/sraping.rb" />
-        <option value="$PROJECT_DIR$/test.rb" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/example.rb" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/result/asdasd.csv" />
+        <option value="$PROJECT_DIR$/test.rb" />
         <option value="$PROJECT_DIR$/scraping.rb" />
+        <option value="$PROJECT_DIR$/productClass.rb" />
       </list>
     </option>
   </component>
@@ -198,7 +211,8 @@
       <workItem from="1551196356311" duration="5453000" />
       <workItem from="1551202837662" duration="3665000" />
       <workItem from="1551287831800" duration="7106000" />
-      <workItem from="1551773877090" duration="1006000" />
+      <workItem from="1551773877090" duration="1286000" />
+      <workItem from="1551776797836" duration="3229000" />
     </task>
     <task id="LOCAL-00001" summary="scap">
       <created>1551031344842</created>
@@ -211,7 +225,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127610000" />
+    <option name="totallyTimeSpent" value="131119000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -226,11 +240,11 @@
     <frame x="73" y="25" width="1847" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26985008" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27318156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49805662" weight="0.32894737" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49750137" visible="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6096613" weight="0.32713348" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4908384" weight="0.3971079" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -239,8 +253,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49972236" weight="0.32894737" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.34036645" side_tool="true" visible="true" weight="0.33442983" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.6596335" visible="true" weight="0.33442983" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5024986" side_tool="true" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.658523" weight="0.33442983" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -774,16 +788,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/result/snacks-higiene-dental-para-perros.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="25" column="84" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/result/snacks-higiene-dental-para-perros.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/result/asdasd.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scraping.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
+        <state relative-caret-position="90">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productClass.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
